@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_subheader4"
+        android:title="">
+
+        <menu>
+
+
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_seccion_1"
+            android:icon="@drawable/timeimg"
+            android:title="Reciente"/>
+        <item
+            android:id="@+id/menu_seccion_2"
+            android:icon="@drawable/starimg"
+            android:title="Sin conexión"/>
+        <item
+            android:id="@+id/menu_seccion_3"
+            android:icon="@drawable/papelera"
+            android:title="Papelera"/>
+        <item
+            android:id="@+id/menu_seccion_4"
+            android:icon="@drawable/notify"
+            android:title="Notificaciones"/>
+        <item
+            android:id="@+id/menu_seccion_5"
+            android:icon="@drawable/dataimg"
+            android:title="Copias de seguridad"/>
+        <item
+            android:id="@+id/menu_seccion_6"
+            android:icon="@drawable/configuracion"
+            android:title="Configuración"/>
+        <item
+            android:id="@+id/menu_seccion_7"
+            android:icon="@drawable/help"
+            android:title="Ayuda y comentarios"/>
+
+    </group>
+
+
+
+
+</menu>
